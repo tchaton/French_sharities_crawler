@@ -1,0 +1,672 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr" >
+<head>
+    <title>IDEAS | Label IDEAS pour les associations et fondations, Certification, Accompagnement bénévole, informations pour faire un don, philanthropie - gouvernance, gestion, efficacité, don, transparence, confiance, </title>
+    
+
+    <meta name="description" content="Le Label IDEAS est un vecteur de confiance pour les donateurs, les mécènes en quête d'efficacité pour leurs dons.  
+L'association IDEAS accompagne les associations et fondations dans l'optimisation de leurs pratiques en matière de 
+gouvernance, gestion financière et efficacité de l'action.
+"/>
+    <meta name="keywords" content="Convergences philanthropiques, Label, certification, associations, fondations, donateurs, philanthropie, mécénat, philanthropes, confiance, contrôle, démarche qualité, a qui faire un don, donner, don bien utilisé, don efficace, associations bien gérées, m"/>
+	<meta name="abstract" content="IDEAS" />
+	<meta name="DC.Title" lang="fr" content="IDEAS: pour savoir à quelle association faire un don, Label IDEAS, Accompagnement bénévole des associations et fondations, Centre de Ressources pour la Philanthropie" />
+	
+	
+
+	<meta name="author" content="IDEAS, Association et Label" />
+	<meta name="URL" content="http://www.ideas.asso.fr" />
+	<meta name="owner" content="http://www.ideas.asso.fr" />
+	<meta name="classification" content="information, association, fondation, bonnes pratiques, transparence, don, philanthropie" />
+	<meta name="DC.Language" scheme="RFC3066" content="FR-fr" />
+	<meta name="DC.Publisher" lang="fr" content="Hélène Dranssart, IDEAS" />
+	<meta name="DC.Creator" lang="fr" content="http://www.duwebdanslacafetiere.com/" />
+	<meta name="geo.position" content="46.75984;1.738281" />
+	<meta name="geo.placename" content="Paris" />
+	<meta name="geo.region" content="FR-75" />
+	<meta name="ICBM" content="46.75984, 1.738281" />
+
+
+    <link rel="shortcut icon" href="/media/images/favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    
+    
+    
+    <link type="text/css" rel="stylesheet" media="all" href="/media/css/reset.css" />
+    <link type="text/css" rel="stylesheet" media="screen" href="/media/css/common.css" />
+
+   
+   
+   
+    <script type="text/javascript" src="/media/js/jquery.js"></script>
+    <script type="text/javascript" src="/media/js/function.js"></script>
+    <script type="text/javascript" src="/media/js/valid_upload.js"></script>   
+      
+    <link type="text/css" rel="stylesheet" media="screen" href="/media/css/home.css" />
+    <script src="/media/js/flowplayer/flowplayer-3.1.4.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/media/js/jquery/cycle/jquery.min.js"></script>
+    <script type="text/javascript" src="/media/js/jquery/cycle/jquery.cycle.all.2.74.js"></script>
+
+	<style type="text/css">
+	.slideshow { height: 100px; width: 100px; margin: auto;}
+	.slideshow img { padding: 15px; border: 1px solid #ccc; background-color: #eee; }
+	</style>
+
+
+
+	<!--  initialize the slideshow when the DOM is ready -->
+	<script type="text/javascript">
+	$(document).ready(function() {
+	    $('.slideshow').cycle({
+			fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		});
+	});
+
+	$(function() { 
+	    $('#s6').cycle({ 
+		fx:     'scrollVert', 
+		speed:   700, 
+		timeout: 4000, 
+		prev:   '#prev', 
+   		next:   '#next', 
+		pause:   true,
+		before: function() {  
+		    $('#caption').html(this.alt); 
+		} 
+	    }); 
+	});
+	</script>
+
+ 
+</head>
+
+<body>
+<!--Label IDEAS pour les associations et fondations, Certification, Accompagnement bénévole, informations pour faire un don, philanthropie - gouvernance, gestion, efficacité, don, transparence, confiance,-->
+    <table id="global" cellpadding='0' cellspacing="0">
+        <tr>
+            <td id='border-left'>
+            </td>
+            <td id="wrapper">
+            <div id="top">
+                <div id="logo" class="left">
+                    <a href='/'><img src="/media/images/ideas-logo.png" alt="IDEAS" title="IDEAS" /></a>
+                </div>
+                <div id="header">
+                    <div id='flag'>
+                        <a href="/fr/"><img src="/media/images/flag-francais.png" alt="Français" title="Français" /></a>&nbsp;&nbsp;
+                        <a href="/fr/english/"><img src="/media/images/flag-english.png" alt="English" title="English" /></a>
+                    </div>
+                    <div id="connection-wrapper">
+                        <div id="banners">
+                            <img src="/media/images/slogan.png" align='left' alt="Un Label pour votre Don, un levier pour votre Action" />
+                        </div>
+                        
+<div id="connection">
+    <div id="label">Accès privé</div>
+    
+    <form method='POST' action='/authentication/'>
+    <table width="230px" cellpadding="0" cellspacing="0">
+        <tr>
+            <td>Identifiant</td>
+            <td>Mot de passe</td>
+            <td rowspan="3" valign="center"><br /><input type="image" src="/media/images/connection-go.png" /></td>
+        </tr>
+        <tr>
+            <td><input type="text" id='login' name='username' /></td>
+            <td><input type="password" id='password' name='password' /></td>
+        </tr>
+        <tr>
+            <td><a href="/fr/inscription-ideas/">S'inscrire</a></td>
+            <td><a href="/fr/generate-password/">Mot de passe oublié ?</a></td>
+        </tr>
+    </table>
+    </form>
+    
+</div>
+
+                    </div>
+                </div>
+                <p style='clear: both;'><img src='/media/images/banner.png' class='banner' /></p>
+            </div>
+            <div id="container">
+ 
+ 			<!-- Menu principal -->
+ 			      
+          <div id="menu">
+                    <img src="/media/images/menu-left.png" class="left" />
+                    <ul class="left">
+                        <li  id='h-nous-connaitre'>
+                            <!--<a href="/fr/nous-connaitre">Nous connaître</a>-->
+                            <div class="off-a">Nous connaître</div>
+                        </li>
+                        
+                        <li   id='h-donateurs-ideas'>
+                            <!--<a href="/fr/donateurs-ideas">Vous êtes donateur</a>-->
+                            <div class="off-a">Vous êtes donateur</div>
+                        </li>
+ 
+                        <li  id='h-centre-des-ressources'>
+                           <!--<div class="off-a"><a href="/fr/centre-de-ressources" style="text-decoration:none;">Centre de Ressources pour la Philanthropie</a></div>-->
+                            <div class="off-a">Centre de Ressources pour la Philanthropie</div>
+                        </li> 
+                        
+                        <li  id='h-association-fondation'>
+                            <!--<a href="/fr/association-fondation">Vous êtes une association / fondation</a>-->
+                            <div class="off-a">Vous êtes une association / fondation</div>
+                        </li>
+                        
+                        <li >
+                            <a href="/fr/contact/" >Nous contacter</a>
+                        </li>
+                    </ul>
+                    <img src="/media/images/menu-right.png" class="left" />
+                </div>
+                
+                
+                <div id='menu-dynamic'>
+                    <div id='nous-connaitre' class='submenu menu_off'>
+                        <div class='submenu-content'>
+                            <ul>
+                            <ul>
+    
+        <li><a href="/fr/nous-connaitre/mission-vision">Mission et vision</a>
+    
+        </li>
+    
+        <li><a href="/fr/nous-connaitre/nos-valeurs">Nos Valeurs</a>
+    
+        </li>
+    
+        <li><a href="/fr/nous-connaitre/historique">Notre Histoire</a>
+    
+        </li>
+    
+        <li><a href="/fr/nous-connaitre/organisation">Notre Organisation</a>
+    
+        <ul>
+    
+        <li><a href="/fr/nous-connaitre/organisation/conseil-administration">Le conseil d'administration</a></li>
+    
+        <li><a href="/fr/nous-connaitre/organisation/equipe">L'équipe IDEAS</a></li>
+    
+        <li><a href="/fr/nous-connaitre/organisation/conseillers-benevoles-ideas">Les conseillers bénévoles</a></li>
+    
+        <li><a href="/fr/nous-connaitre/organisation/comite-expert">Le comité expert</a></li>
+    
+        <li><a href="/fr/nous-connaitre/organisation/rejoindre-ideas">Nous rejoindre</a></li>
+    
+        </ul>
+    
+        </li>
+    
+        <li><a href="/fr/nous-connaitre/label-ideas-associations-fondations">Le Label IDEAS</a>
+    
+        <ul>
+    
+        <li><a href="/fr/nous-connaitre/label-ideas-associations-fondations/comite-delivrance-label">Le Comité Label IDEAS</a></li>
+    
+        </ul>
+    
+        </li>
+    
+        <li><a href="/fr/nous-connaitre/mecenes-prives-et-publics">Ils nous soutiennent</a>
+    
+        </li>
+    
+        <li><a href="/fr/nous-connaitre/partenaires">Partenaires</a>
+    
+        </li>
+    
+</ul>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class='submenu menu_off' id='donateurs-ideas'>
+                        <div class='submenu-content'>
+                            <ul>
+                            <ul>
+    
+        <li><a href="/fr/donateurs-ideas/ce-qu-ideas-vous-apporte">Ce qu'IDEAS vous apporte</a>
+    
+        </li>
+    
+        <li><a href="/fr/associations">Base de données :</a>
+    
+        <ul>
+    
+        <li><a href="/fr/associations/labellises-ideas">Organismes labellisés IDEAS</a></li>
+    
+        </ul>
+    
+        </li>
+    
+        <li><a href="/fr/donateurs-ideas/expertise-donateurs">Notre expertise Donateurs</a>
+    
+        </li>
+    
+        <li><a href="/fr/donateurs-ideas/notre-expertise-conseillers">Notre expertise conseillers</a>
+    
+        <ul>
+    
+        <li><a href="/fr/donateurs-ideas/notre-expertise-conseillers/conseillers-gestion-privee-family-office-gestion-patrimoine">- Gestion Privée / FO / CGP</a></li>
+    
+        <li><a href="/fr/donateurs-ideas/notre-expertise-conseillers/notaires">- Notaires</a></li>
+    
+        <li><a href="/fr/donateurs-ideas/notre-expertise-conseillers/avocats">- Avocats</a></li>
+    
+        </ul>
+    
+        </li>
+    
+        <li><a href="/fr/donateurs-ideas/info-en-direct-des-associations-ideas">L'info en direct des associations "IDEAS"</a>
+    
+        </li>
+    
+</ul>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class='submenu menu_off' id='centre-des-ressources'>
+                        <div class='submenu-content'>
+                            <ul>
+                            <ul>
+    
+        <li><a href="/fr/associations">Base de données :</a>
+    
+        <ul>
+    
+        <li><a href="/fr/associations/labellises-ideas">Organismes labellisés IDEAS</a></li>
+    
+        </ul>
+    
+        </li>
+    
+        <li><a href="/fr/centre-de-ressources/liste-des-labellises-ideas">Liste des labellisés IDEAS</a>
+    
+        </li>
+    
+        <li><a href="/fr/centre-de-ressources/guide-ideas-bonnes-pratiques">Le Guide IDEAS</a>
+    
+        </li>
+    
+        <li><a href="/fr/news">Actualités IDEAS</a>
+    
+        </li>
+    
+        <li><a href="/fr/centre-de-ressources/lettre-information-newsletter">Newsletter IDEAS</a>
+    
+        </li>
+    
+</ul>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class='submenu menu_off' id='association-fondation'>
+                        <div class='submenu-content'>
+                            <ul>
+                            <ul>
+    
+        <li><a href="/fr/association-fondation/ce-qu-ideas-vous-apporte">Ce qu'IDEAS vous apporte</a>
+    
+        </li>
+    
+        <li><a href="/fr/association-fondation/demarche-ideas">Démarche IDEAS</a>
+    
+        <ul>
+    
+        <li><a href="/fr/association-fondation/demarche-ideas/accompagnement">Accompagnement</a></li>
+    
+        <li><a href="/fr/association-fondation/demarche-ideas/candidature-au-label-ideas">Candidature au Label</a></li>
+    
+        <li><a href="/fr/association-fondation/demarche-ideas/relations-donateurs">Post Label</a></li>
+    
+        </ul>
+    
+        </li>
+    
+        <li><a href="/fr/association-fondation/referencement-associations-base-de-donnees-inscription">Inscrivez-vous</a>
+    
+        </li>
+    
+</ul>
+                            </ul>
+                        </div>
+                    </div>
+
+
+
+
+                </div>
+
+ 			<!-- Fin Menu principal -->
+
+
+                
+                <div id='search'>
+                    
+<div class='main'>
+
+    <form action='/recherche/' method='POST'> 
+    
+    <input type='text' value='Rechercher...' name='keyword' id='keyword' onfocus="if(this.value=='Rechercher...'){this.value='';}" onblur='if(!this.value){this.value="Rechercher...";}' /> 
+    
+    <input type='image' src='/media/images/form-arrow.png' id='button'/>
+    
+    <select name='subject' id='subject'>
+        
+            <option value='0'>Tout le site</option>
+        
+            <option value='5'>Centre de Ressources</option>
+        
+            <option value='1'>Associations / Fondations</option>
+        
+            <option value='4'>Actualités</option>
+        
+            <option value='3'>Autres contenus du site</option>
+        
+            <option value='2'>Lexique</option>
+        
+    </select>   
+    
+    </form>
+</div>
+
+                </div>
+                
+
+                    
+    
+    <div id='left-part'>
+        <div id='donateur'>
+            <div class='bloc-content'>
+                <h1><a href="/fr/donateurs-ideas/expertise-donateurs/">Faîtes appel à notre expertise</a></h1>
+<p>Pour votre d&eacute;marche en philanthropie</p>
+<p><strong><a href="../../../../../../fr/nous-connaitre/label-ideas-associations-fondations/">&gt; D&eacute;couvrir le Label IDEAS</a></strong></p>
+<p><strong><a href="../../../../../../fr/associations/?relation=1">&gt; Les organismes labellis&eacute;s IDEAS</a></strong></p>
+<p><strong><br /></strong></p>
+
+            </div>
+        </div>
+
+        <div id='fenetre'>
+            <div id='fenetre-bottom'>
+            	<div class="nav"><h2>La mission d'IDEAS</h2></div>
+            	<div style='clear: both;'></div>
+                <div id='fenetre-content'>
+                    <p><span style="font-size: medium;"><a href="../../../../../../nous-connaitre/mission-vision/">Les convergences philanthropiques</a></span></p>
+
+                </div>
+            </div>
+        </div> 
+        
+<br/><br/>
+
+        <div id='fenetre'>
+            <div id='fenetre-bottom'>
+            	<div class="nav"><h2>Nos valeurs</h2></div>
+            	<div style='clear: both;'></div>
+                <div id='fenetre-content'>
+                	<p></p>
+                	<p style="text-align: left;"><span style="font-size: medium;"><a href="http://ideas.asso.fr/fr/nous-connaitre/nos-valeurs/">Solidarit&eacute;,</a></span></p>
+<p style="text-align: left;"><span style="font-size: medium;"><a href="http://ideas.asso.fr/fr/nous-connaitre/nos-valeurs/">Ind&eacute;pendance,</a></span></p>
+<p style="text-align: left;"><span style="font-size: medium;"><a href="http://ideas.asso.fr/fr/nous-connaitre/nos-valeurs/">Professionnalisme</a></span></p>
+
+
+                    
+                </div>
+            </div>
+        </div> 
+
+    </div>
+    
+    
+    <div id='middle'>
+        <div id='middle-bottom'>
+            <div id='middle-content'>
+                <div class="bloc_media">
+                    <!--<a href="/media/uploads/diaporama/video.flv" id="player"><img src="/media/uploads/diaporama/diaporama.jpg" ></a>-->
+                    <!--<a href="http://ideas.asso.fr/media/uploads/voeux-2015-gd-format.jpg" target="_blank"><img src="http://ideas.asso.fr/media/uploads/voeux-2015-pt-format.jpg" ></a>-->
+                    <!--<a href="http://ideas.asso.fr/media/images/img_accueil_gd.jpg" target="_blank"><img src="http://ideas.asso.fr/media/images/image_accueil.jpg" ></a>-->
+			<a href="http://ideas.asso.fr/fr/associations/?relation=1"><img src="http://ideas.asso.fr/media/images/image_accueil.jpg" ></a>
+
+                </div>
+               
+                <script language="JavaScript">
+                    flowplayer("player", "/media/js/flowplayer/flowplayer-3.1.3.swf");
+                </script>
+
+                <div class='text'><h1 style="text-align: center;"><span style="color: #ffffff;">--</span></h1>
+<h1 style="text-align: center;">convergences philanthropiques</h1>
+<p style="text-align: center;"><strong>Agir pour que les attentes des donateurs</strong></p>
+<p style="text-align: center;"><strong> et les besoins de financement des associations et fondations se rencontrent</strong></p>
+<p style="text-align: center;"><span style="font-size: xx-small;"><a href="../../../../../../fr/crp-registration/" target="blank"><br /></a></span></p>
+<table style="margin-top: 15px;" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="border-right: 1px solid #497494;" width="50%" align="center"><a href="../../../../../../centre-de-ressources/guide-ideas-bonnes-pratiques/"><img src="../../../../../../media/images/guide.png" alt="" /></a><a href="../../../../../../centre-de-ressources/guide-ideas-bonnes-pratiques/">
+<p><strong>Le Guide IDEAS</strong><br /><strong>des Bonnes Pratiques</strong></p>
+</a></td>
+<td width="50%" align="center"><a href="../../../../../../nous-connaitre/label-ideas-associations-fondations/"> <a href="/fr/nous-connaitre/label-ideas-associations-fondations/">
+<img alt="" src="/media/cms_page_media/6/label-ideas.jpg" />
+</a>
+
+<p><strong>Le Label IDEAS</strong></p>
+</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+            </div>
+        </div>
+    </div>    
+    
+    
+    
+    <div id='right-part'>
+    
+        <div id='association'>
+            <div class='bloc-content'>
+                <h1><a href="/fr/association-fondation/referencement-associations-base-de-donnees-inscription/">Informez les donateurs</a></h1>
+<p><strong>Pr&eacute;sentez votre organisme sur notre site&nbsp;</strong></p>
+<h1><a href="/fr/association-fondation/demarche-ideas/accompagnement/">Optimisez vos pratiques de gestion</a></h1>
+<p><strong>Nous vous accompagnons vers le Label IDEAS</strong></p>
+<h1><a href="/fr/nous-connaitre/label-ideas-associations-fondations/">Développez vos ressources</a></h1>
+<p><strong>le label IDEAS d&eacute;di&eacute; &agrave; la philanthropie</strong></p>
+
+            </div>
+        </div>
+
+        <div id='actu'>
+            <div id='actu-bottom'>
+		        <div class="nav">		
+		            <h2>L'actualité d'IDEAS</h2>
+		            <ul>
+				        <li><a id="next" href="#" alt="Actualité suivante">&nbsp;</a></li>
+				        <li><a id="prev" href="#" alt="Actualité précédente">&nbsp;</a></li> 			
+			        </ul>	
+		            <div style='clear: both;'></div>
+	            </div> <!-- END .nav -->
+                <div id='actu-content'>
+                    <div style="position: relative; overflow: hidden;" id="s6">
+
+        
+            <div style="position: absolute; top: -230px; left: 0px; display: none; z-index: 2; opacity: 0;width: 240px; height:90px; background: #fff;">
+
+		<div class='last_news'>
+		    <a href='/news/etude-modeles-socio-economiques-des-associations-employeuses-quelles-strategies-devolution/'>
+		    <i>15 May 2017</i>
+		    <p class='title'>ETUDE : « MODÈLES SOCIO-ÉCONOMIQUES DES ASSOCIATIONS EMPLOYEUSES : QUELLES STRATÉGIES D’ÉVOLUTION ? </p>
+		    <div class='text' style="text-align: justify; font-size: small;"><p><p>Une &eacute;tude de KPMG pour le compte du Mouvement associatif ...</div>
+		    </a>
+		</div>
+
+            </div>
+        
+
+        
+            <div style="position: absolute; top: -230px; left: 0px; display: none; z-index: 2; opacity: 0;width: 240px; height:90px; background: #fff;">
+
+		<div class='last_news'>
+		    <a href='/news/belles-histoires-de-don-merci2017/'>
+		    <i>12 May 2017</i>
+		    <p class='title'>Belles Histoires de Don : #merci2017</p>
+		    <div class='text' style="text-align: justify; font-size: small;"><p><p>Participez &agrave; cette op&eacute;ration pour valoriser le don jusqu&rsquo;au 10 ...</div>
+		    </a>
+		</div>
+
+            </div>
+        
+
+        
+            <div style="position: absolute; top: -230px; left: 0px; display: none; z-index: 2; opacity: 0;width: 240px; height:90px; background: #fff;">
+
+		<div class='last_news'>
+		    <a href='/news/parution-de-letude-les-dons-2016-au-titre-de-lisf/'>
+		    <i>11 May 2017</i>
+		    <p class='title'>Parution de l’étude : « les dons 2016 au titre de l’ISF »</p>
+		    <div class='text' style="text-align: justify; font-size: small;"><p><p>Bilan et &eacute;volutions.</p></p></div>
+		    </a>
+		</div>
+
+            </div>
+        
+
+</div>
+
+                </div> <!-- END #actu-content -->
+            </div> <!-- END #actu-bottom -->
+            <p id='link-newsletter'><a href='/centre-de-ressources/lettre-information-newsletter/'>Recevoir notre Newsletter</a></p>
+        </div>  <!-- END #actu -->
+     
+        
+        <div id='actuOrga'>
+            <h2><a href="/fr/donateurs-ideas/info-en-direct-des-associations-ideas/">L'actualité des organismes labellisés</a></h2>
+        </div>
+    </div> <!-- END #right-part -->
+
+
+
+	<p style='clear: both;'>&nbsp;</p>
+
+    <div id='bottom-part'>
+        <div id='divers'>
+            <div class='bloc-content'>
+                <p style="text-align: center;"><strong>Avec le soutien de nos partenaires fondateurs et du Minist&egrave;re de la Vie Associative</strong></p>
+<table style="margin-left: auto; margin-right: auto;" border="0" cellspacing="5" cellpadding="5" width="350" height="48" align="center">
+<tbody>
+<tr valign="top">
+<td style="text-align: center;" valign="top"><a href="http://www.cncc.fr/" target="_blank">
+<img alt="" src="/media/cms_page_media/6/cncc___.png" />
+
+<br /></a></td>
+<td width="5">&nbsp;&nbsp;&nbsp;&nbsp; <br /></td>
+<td valign="top"><a href="http://www.experts-comptables.fr/" target="_blank"><a href="http://www.experts-comptables.fr/">
+<img alt="Logo de conseil supérieur ordre des experts comptables" src="/media/cms_page_media/6/logo-conseil-supérieur-ordre-des-experts-comptables-140.png" />
+</a>
+<br /></a></td>
+<td width="5">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td valign="top"><a href="http://www.caissedesdepots.fr/" target="_blank">
+<img alt="" src="/media/cms_page_media/6/cdc_.png" />
+
+<br /></a></td>
+<td width="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</td>
+<td valign="top"><a href="http://www.jeunesse-vie-associative.gouv.fr/" target="_blank">
+<img alt="" src="/media/cms_page_media/6/MENJVA_LOGO_Q_.png" />
+
+</a>&nbsp;&nbsp; <br /></td>
+</tr>
+</tbody>
+</table>
+
+            </div>
+        </div>
+    </div>
+	<p style='clear: both;'>&nbsp;</p>
+
+
+                <p style='clear: both;'>&nbsp;</p>
+                
+            </div>
+            
+            
+            
+            <div id="footer">
+                <p id="cgu">
+                <a href="/fr/vos-questions" target="_blank">Vos questions</a> &bull; <a href="/fr/mentions-legales" target="_blank">Mentions légales</a> &bull; <a href="/fr/espace-presse" target="_blank">Espace presse</a> &bull; <a href="/fr/plan-du-site" target="_blank">Plan du site</a> &bull; <a href="/fr/lexique" target="_blank">Lexique</a> &bull; <a href="/fr/conditions-generales-dutilisation" target="_blank">Conditions Générales d'utilisation</a>
+                             
+
+                </p>
+
+             
+
+                <p class="copyright">
+                	Tous droits réservés IDEAS 2010 &bull; IDEAS &bull; 37, rue d’Anjou – 75008 Paris &bull; 01 40 06 61 35 &bull;  
+                	<a href="/fr/contact">info@ideas.asso.fr</a>
+                </p>
+                <ul>	
+               		<li>Retrouvez-nous sur :</li>
+			<li><a href="http://is.gd/Fp2tGj" target="_blank"><img src="/media/images/home/linkedin.png" alt="linkedin"/></a></li>
+               		<li><a href="http://twitter.com/asso_ideas" target="_blank"><img src="/media/images/home/twitter.png" alt="twitter"/></a></li>
+               		<li><a href="http://www.facebook.com/pages/Ideas/131759456894881" target="_blank"><img src="/media/images/home/facebook.png" alt="facebook"/></a></li>               		
+               </ul>
+            </div>
+            
+
+            
+            
+            </td>
+            <td id='border-right'>
+            </td>
+        </tr>
+    </table>
+
+
+
+    <!-- SCRIPT ----------------------------------------------------------->
+
+	<script type="text/javascript">
+	<!--
+	function Lien() {
+		i = document.Choix.Liste.selectedIndex;
+		if (i == 0) return;
+		url = document.Choix.Liste.options[i].value;
+		parent.location.href = url;
+	}
+	// --> 
+	</script>
+
+    
+    <!-- GOOGLE ANALYTICS -->
+    <script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-15822772-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+    </script>
+    
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-15822772-1', 'ideas.asso.fr');
+    ga('send', 'pageview');
+    </script>      
+    <!-- END GOOGLE ANALYTICS -->  
+    
+    
+    <script type="text/javascript" src="/media/js/menu.js"></script>
+    <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
+</body>
+
+</html>
